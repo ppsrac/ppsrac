@@ -1,6 +1,6 @@
 Hello, everyone!
 Nice to meet you
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppsrac&show_icons=true&theme=radical)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ppsrac&&show_icons=true&theme=dark)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ppsrac)](https://solved.ac/ppsrac)
