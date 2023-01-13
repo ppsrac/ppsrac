@@ -12,11 +12,12 @@ If you want to contact me, feel free to contact.
 <br/>
 Born in 1997.4.7<br/>
 
-* Graduate
-  Will write later.
+* Graduate<br/>
+  * Will write later.
 
-* Current Interest
-  AI/ML part
+* Current Interest<br/>
+  * AI/ML part
+  * will write later
   
 **Some other infos about Suhyun Kim**
 <br/>
