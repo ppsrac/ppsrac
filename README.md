@@ -18,6 +18,9 @@ Born in 1997.4.7<br/>
 * Current Interest<br/>
   * AI/ML part
   * will write later
+
+* What I've learned
+  * only python
   
 **Some other infos about Suhyun Kim**
 <br/>
