@@ -1,4 +1,4 @@
-Hello, my name is Suhyun Kim who live Seoul in South Korea.<br/>
+Hello, my name is Suhyun Kim who live in Seoul in South Korea.<br/>
 At now, I'm a beginner programmer who are learning about basic computational science. I want to be AI engineer and want to make some fancy AI algorithms which many peoples like.<br/>
 If you want to contact me, feel free to contact.
 <br/>
