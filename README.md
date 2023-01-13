@@ -7,7 +7,7 @@ If you want to contact me, feel free to contact.
 <br/>
 <br/>
 
-**Biography of S.H.Kim**
+**Biography of Suhyun Kim**
 <br/>
 <br/>
 Born in 1997.4.7<br/>
@@ -19,7 +19,9 @@ Born in 1997.4.7<br/>
 * Current Interest
   AI/ML part
   
-  
+**Some other infos about Suhyun Kim**
+<br/>
+
 
 Github stats <br/>
 
