@@ -13,8 +13,7 @@ If you want to contact me, feel free to contact.
 Born in 1997.4.7<br/>
 
 * Graduate
-  SSHS (2014.3\~2016.2) <br/>
-  SNU Phys&Astro, Bachelor's degree (2016.2\~2022.8) <br/>
+  Will write later.
 
 * Current Interest
   AI/ML part
