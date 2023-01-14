@@ -13,7 +13,8 @@ If you want to contact me, feel free to contact.
 Born in 1997.4.7<br/>
 
 * Graduate<br/>
-  * Will write later.
+  * SSHS(2013.3\~2016.2)
+  * Seoul National University, Phys&Astro, Bachelor's degree(2016.3\~2022.8)
 
 * Current Interest<br/>
   * AI/ML part
