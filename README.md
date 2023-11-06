@@ -21,10 +21,10 @@ Born in 1997.4.7<br/>
   * Backend 
 
 * Language
-  * Python
-  * Java
-  * C++
-  * Few rust...
+  * Python (3.5/5.0)
+  * Java (3.0/5.0)
+  * C++ (3.0/5.0)
+  * Rust, Go, JS... (<2.0/5.0)
   
 **Some other infos about Suhyun Kim**
 <br/>
