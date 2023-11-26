@@ -7,7 +7,7 @@ If you want to contact me, feel free to contact.
 <br/>
 <br/>
 
-**Biography of Suhyun Kim**
+**Brief histories of Suhyun Kim**
 <br/>
 <br/>
 Born in 1997.4.7<br/>
@@ -16,14 +16,10 @@ Born in 1997.4.7<br/>
   * SSHS(2013.3\~2016.2)
   * Seoul National University, Phys&Astro, Bachelor's degree(2016.3\~2022.8)
 
-* Current Interest<br/>
-  * AI/ML part
-  * Backend 
-
-* Language
-  * Python (3.5/5.0)
-  * Java (3.0/5.0)
-  * C++ (3.0/5.0)
+* Main Language
+  * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (3.5/5.0)
+  * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) (3.0/5.0)
+  * ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) (3.0/5.0)
   * Rust, Go, JS... (<2.0/5.0)
   
 **Some other infos about Suhyun Kim**
